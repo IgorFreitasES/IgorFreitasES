@@ -39,9 +39,11 @@ Engenheiro de Software em formação, atuando no desenvolvimento de aplicações
 ### 📝 Análise Comparativa de Perfis (Benchmarking - Etapa 1)
 
 >Ao analisar os 10 perfis de referência no GitHub, deu para notar alguns padrões bem claros que fazem toda a diferença na apresentação profissional.
-O primeiro ponto é a clareza do Profile README: a maioria aposta em um resumo direto ao ponto, usando badges e ícones divididos por categorias para mostrar a stack sem poluir o visual. Nos repositórios fixados (Pinned), percebi que ninguém usa nomes genéricos como "projeto1" ou "teste"; todos usam nomes descritivos com hífens e aplicam topics para facilitar a busca.
-Outra coisa que chama a atenção é a qualidade da documentação dos projetos em destaque. Os arquivos README.md sempre explicam o que o sistema faz, trazem imagens ou GIFs demonstrativos e mostram o passo a passo exato para rodar o código localmente. Para fechar, a presença constante da licença MIT e de um bom .gitignore mostra cuidado com boas práticas e segurança de software desde o início.
-Com base nessas referências, reorganizei meu próprio perfil focando em apresentar minha trajetória de forma simples, destacar meus principais projetos com documentação completa e deixar minhas habilidades visíveis logo de cara.
+O primeiro ponto é a clareza do Profile README: a maioria aposta em um resumo direto ao ponto, usando badges e ícones divididos por categorias para mostrar a stack sem poluir o visual.
+Nos repositórios fixados (Pinned), percebi que ninguém usa nomes genéricos como "projeto1" ou "teste"; todos utilizam nomes descritivos com hífens e aplicam topics para facilitar a busca de cada projeto.
+Outra coisa que chama muito a atenção é a qualidade da documentação dos projetos em destaque. Os arquivos README.md sempre explicam o problema que o sistema resolve, trazem imagens ou GIFs demonstrativos e mostram o passo a passo exato para rodar o código localmente sem complicações.
+Para fechar, a presença constante de licenças open source (como a MIT) e de um arquivo .gitignore bem estruturado reforça a preocupação com boas práticas e segurança de software.
+Com base nessas referências, reorganizei meu próprio perfil focando em apresentar minha trajetória de forma simples, destacar meus principais projetos acadêmicos com documentação completa e deixar minhas habilidades técnicas visíveis logo de cara.
 ---
 
 ### 📬 Conecte-se Comigo
