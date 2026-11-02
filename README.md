@@ -29,9 +29,10 @@ Engenheiro de Software em formação, atuando no desenvolvimento de aplicações
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorFreitasES&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFreitasES&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorFreitasES&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorFreitasES&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
 </div>
+
 
 ---
 
