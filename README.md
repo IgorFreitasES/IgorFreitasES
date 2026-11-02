@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome Completo] 👋
+# Olá, eu sou Igor Trindade 👋
 
 ### 👨‍💻 Sobre Mim
 Engenheiro de Software em formação, atuando no desenvolvimento de aplicações web modernas, arquitetura de sistemas e soluções de integração entre hardware e software (IoT). Tenho foco na construção de softwares eficientes, bem documentados e aplicados à resolução de problemas reais de logística, automação e gestão.
