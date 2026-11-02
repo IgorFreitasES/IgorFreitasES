@@ -30,7 +30,7 @@ Engenheiro de Software em formação, atuando no desenvolvimento de aplicações
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorFreitasES&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=IgorFreitasES&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorFreitasES&theme=radical" alt="Resumo do Perfil" height="150"/>
 </div>
 
 
